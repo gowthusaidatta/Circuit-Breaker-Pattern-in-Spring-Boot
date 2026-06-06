@@ -1,9 +1,0 @@
-C:\Users\saida\Desktop\Gpp\Circuit Breaker Pattern in Spring Boot\src\main\java\com\example\circuitbreaker\CircuitBreakerApplication.java
-C:\Users\saida\Desktop\Gpp\Circuit Breaker Pattern in Spring Boot\src\main\java\com\example\circuitbreaker\config\CircuitBreakerLoggingConfiguration.java
-C:\Users\saida\Desktop\Gpp\Circuit Breaker Pattern in Spring Boot\src\main\java\com\example\circuitbreaker\config\RestTemplateConfig.java
-C:\Users\saida\Desktop\Gpp\Circuit Breaker Pattern in Spring Boot\src\main\java\com\example\circuitbreaker\controller\CircuitBreakerController.java
-C:\Users\saida\Desktop\Gpp\Circuit Breaker Pattern in Spring Boot\src\main\java\com\example\circuitbreaker\controller\MockExternalUserController.java
-C:\Users\saida\Desktop\Gpp\Circuit Breaker Pattern in Spring Boot\src\main\java\com\example\circuitbreaker\controller\UserController.java
-C:\Users\saida\Desktop\Gpp\Circuit Breaker Pattern in Spring Boot\src\main\java\com\example\circuitbreaker\dto\UserDTO.java
-C:\Users\saida\Desktop\Gpp\Circuit Breaker Pattern in Spring Boot\src\main\java\com\example\circuitbreaker\service\MockExternalBackendState.java
-C:\Users\saida\Desktop\Gpp\Circuit Breaker Pattern in Spring Boot\src\main\java\com\example\circuitbreaker\service\UserDataService.java
