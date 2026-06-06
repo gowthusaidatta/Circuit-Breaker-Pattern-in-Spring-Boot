@@ -1,0 +1,10 @@
+com\example\circuitbreaker\controller\MockExternalUserController.class
+com\example\circuitbreaker\service\MockExternalBackendState.class
+com\example\circuitbreaker\config\CircuitBreakerLoggingConfiguration.class
+com\example\circuitbreaker\service\MockExternalBackendState$Mode.class
+com\example\circuitbreaker\service\UserDataService.class
+com\example\circuitbreaker\controller\UserController.class
+com\example\circuitbreaker\controller\CircuitBreakerController.class
+com\example\circuitbreaker\CircuitBreakerApplication.class
+com\example\circuitbreaker\config\RestTemplateConfig.class
+com\example\circuitbreaker\dto\UserDTO.class

@@ -1,0 +1,5 @@
+com\example\circuitbreaker\service\MockExternalBackendStateTest.class
+com\example\circuitbreaker\service\UserDataServiceTest$1.class
+com\example\circuitbreaker\dto\UserDTOTest.class
+com\example\circuitbreaker\controller\MockExternalUserControllerTest.class
+com\example\circuitbreaker\service\UserDataServiceTest.class
